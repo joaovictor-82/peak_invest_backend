@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakInvest.API", "WebApplication1\PeakInvest.API.csproj", "{0FA025F9-AA46-437C-B76B-F4CE50AB91DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA025F9-AA46-437C-B76B-F4CE50AB91DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA025F9-AA46-437C-B76B-F4CE50AB91DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA025F9-AA46-437C-B76B-F4CE50AB91DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA025F9-AA46-437C-B76B-F4CE50AB91DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16BC8E7-50F6-461A-B279-4C2B1B1B2FDF}
+	EndGlobalSection
+EndGlobal
